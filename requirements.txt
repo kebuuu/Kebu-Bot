@@ -10,6 +10,7 @@ chardet==4.0.0
 click==8.0.1
 colorama==0.4.4
 dataclasses-json==0.5.4
+discord==1.0.1
 discord.py==1.7.3
 fire==0.3.1
 Flask==2.0.1
